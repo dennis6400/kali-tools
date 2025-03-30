@@ -1,1 +1,89 @@
-# Additional tools for kali
+##
+# Basic Tools (via apt)
+##
+
+- curl 
+- wget
+- tree
+- htop
+- exiftool
+- openvpn
+- docker.io
+- docker-compose
+- keepassx
+- flameshot
+- terminator
+- git
+- make
+- gcc
+- jq
+- xclip
+- 7zip
+
+
+##
+#  Web Hacking Tools (via apt)
+##
+
+- dirb
+- gobuster
+- feroxbuster
+- ffuf
+- testssl.sh
+- aha
+
+
+##
+# Privilege Escalation (via apt)
+##
+
+- windows-privesc-check 
+- unix-privesc-check
+
+
+##
+# Misc (via apt)
+##
+
+- libreoffice
+- libsecret-1-0 
+- libsecret-1-dev
+- chromium
+- filezilla
+- x11-xkb-utils
+
+
+##
+# SecLists (via apt) 
+##
+
+- seclists
+- payloadsallthethings
+
+
+##
+# Git Repositories
+##
+
+InternalAllTheThing: 
+https://github.com/swisskyrepo/InternalAllTheThings
+
+FuzzDB:
+https://github.com/fuzzdb-project/fuzzdb
+
+HackTricks: 
+https://github.com/HackTricks-wiki/hacktricks
+
+
+##
+# Additional software
+##
+
+Sublime:
+https://www.sublimetext.com/download
+
+Chrome:
+https://www.google.com/chrome/de/download-chrome
+
+Burp Suite Professional:
+https://portswigger.net/burp/releases
