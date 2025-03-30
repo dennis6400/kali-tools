@@ -1,6 +1,6 @@
 # Kali Tools
 
-## Run the script install_kali_tools.sh without saving
+## Run the script *install_kali_tools.sh* without saving
 
 ### curl
 
@@ -26,13 +26,13 @@ wget -qO- https://raw.githubusercontent.com/dennis6400/kali-tools/refs/heads/mas
 sh <(curl -s https://raw.githubusercontent.com/dennis6400/kali-tools/refs/heads/master/install_kali_tools.sh)
 ```
 
-## Clone the repository & run the script install_kali_tools.sh
+## Clone the repository & run the script *install_kali_tools.sh*
 
 ```shell
 git clone https://github.com/dennis6400/kali-tools.git && cd kali-tools && chmod +x ./install_kali_tools.sh && ./install_kali_tools.sh
 ```
 
-## Create install_kali_tools.sh manually
+## Create *install_kali_tools.sh* manually
 
 **Step 01** - Create *install_kali_tools.sh* file on the target system:
 
