@@ -1,8 +1,24 @@
 # Kali Tools
 
 ## Run the script *install_kali_tools.sh* without saving
+ 
+### RAW sources
+
+#### GitHup
+
+```shell
+https://raw.githubusercontent.com/dennis6400/kali-tools/refs/heads/master/
+```
+
+#### Pastebin
+
+```shell
+https://pastebin.com/raw/8VuMzu5e
+```
 
 ### curl
+
+#### GitHup
 
 ```shell
 curl -s https://raw.githubusercontent.com/dennis6400/kali-tools/refs/heads/master/install_kali_tools.sh | sh 
@@ -14,7 +30,15 @@ curl -s https://raw.githubusercontent.com/dennis6400/kali-tools/refs/heads/maste
 sh <(curl -s https://raw.githubusercontent.com/dennis6400/kali-tools/refs/heads/master/install_kali_tools.sh)
 ```
 
+#### Pastebin
+
+```shell
+curl -s https://pastebin.com/raw/8VuMzu5e | sh 
+```
+
 ### wget
+
+#### GitHup
 
 ```shell
 wget -qO- https://raw.githubusercontent.com/dennis6400/kali-tools/refs/heads/master/install_kali_tools.sh | sh
@@ -24,6 +48,12 @@ wget -qO- https://raw.githubusercontent.com/dennis6400/kali-tools/refs/heads/mas
 
 ```shell
 sh <(curl -s https://raw.githubusercontent.com/dennis6400/kali-tools/refs/heads/master/install_kali_tools.sh)
+```
+
+#### Pastebin
+
+```shell
+wget -qO- https://pastebin.com/raw/8VuMzu5e | sh 
 ```
 
 ## Clone the repository & run the script *install_kali_tools.sh*
